@@ -5,52 +5,52 @@ global.thum = fs.readFileSync("./media/zaki.jpg")
 
 global.autoReadAll = true 
 
-// '6285878313791' ganti nomor kalian '628xxxxxx'
+// '6282146218274' ganti nomor kalian '628xxxxxx'
 //KiZakiXD ganti nama kalian xxxxz
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
+global.owner = ['6282146218274']
+global.pengguna = 'RielGans'
 global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.author = 'RielGansOfc'
+global.pemilik = ['6282146218274'] 
+global.ownernomer = '6282146218274'
+global.ownername = 'Owner rielbotz'
+global.botname = 'RielBotz - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '6282146218274'
+global.footer = 'R I E L B O T Z - 𝘔 𝘋'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
-global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.namalu = 'RielgansoFc' //Ubah nama kalian buat nambahin di tqtq bot
+global.footer1 = 'Jangan Spam Bot kontol.'
+global.footer2 = 'donasi cok make doang lu'
+global.yt = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ'
+global.gc = 'https://chat.whatsapp.com/JqzZbqyCvBa6tXzLH1P3hZ' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
 global.dana = '00000'
 global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.wame = 'wa.me/6282146218274'
+global.email = 'riel@gmail.com'
 global.region = 'Indonesia'
-global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
-global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
+global.link = 'github.com/Rieltod'
+global.sc = 'donasi ngab🐤'
+global.packname = '"{\nAuthor: Rielgans"\n"Bot Number: 6283112471048"\n"Bot Name: Rielbotz - MD"\n"Instagram: @Rielgans12"\n}' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
 global.sp = '❑ ' 
 global.mess = {
-    success: 'Done Your Request',
-    admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
+    success: '𝑫𝑶𝑵𝑬...',
+    admin: '𝑬𝑴𝑨𝑵𝑮𝑵𝒀𝑨 𝑳𝑼 𝑨𝑫𝑴𝑰𝑵 𝑲𝑨𝑯 𝑫𝑬𝑲?',
+    botAdmin: '𝑩𝑶𝑻 𝑨𝑱𝑨 𝑩𝑼𝑲𝑨𝑵 𝑨𝑫𝑴𝑰𝑵!',
+    owner: '𝑬𝑴𝑨𝑵𝑮𝑵𝒀𝑨 𝑳𝑼 𝑶𝑾𝑵𝑬𝑹 𝑲𝑨𝑯 𝑫𝑬𝑲?',
+    group: '𝑭𝑰𝑻𝑼𝑹 𝑯𝑨𝑵𝒀𝑨 𝑩𝑰𝑺𝑨 𝑫𝑰 𝑮𝑹𝑶𝑼𝑷!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    error: 'Fitur sedang error!',
+    wait: '𝑳𝑶𝑨𝑫𝑰𝑵𝑮 𝑻𝑶𝑫...',
+    error: '𝑺𝑬𝑹𝑽𝑬𝑹 𝑩𝑶𝑻 𝑬𝑹𝑹𝑶𝑹!',
         endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
     example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
